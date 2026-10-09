@@ -156,14 +156,21 @@ English · Telugu · Hindi
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
 </p>
 
-## 📊 GitHub Analytics
+<h2 align="center">📊 GitHub Analytics</h2>
 
-<p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=saiprakash-db&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saiprakash-db&layout=compact&theme=highcontrast" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiprakash-db&theme=highcontrast" alt="GitHub Streak" />
+<p align="center">
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=saiprakash-db&show_icons=true&theme=highcontrast"
+    alt="GitHub Stats"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=saiprakash-db&theme=highcontrast"
+    alt="GitHub Streak"
+    width="48%"
+  />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saiprakash-db&bg_color=102216&color=11d452&line=11d452&point=11d452&area=true&hide_border=true" alt="Activity Graph" />
+<p align="center">
+  <img src="./assets/closing.svg" alt="A data thought by Sai Prakash Lingala" width="100%" />
 </p>
