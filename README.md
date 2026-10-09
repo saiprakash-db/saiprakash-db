@@ -1,3 +1,20 @@
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=wave&color=0:15172B,50:38349B,100:087F88&height=180&section=header&text=Sai%20Prakash%20Lingala&fontSize=38&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn"
+    alt="Sai Prakash Lingala banner"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sai-prakash-lingala-400854287/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:saiprakash15b@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
 ## 👋 Who I Am
 
 I'm Sai Prakash, an aspiring Data Analyst and B.Tech Artificial Intelligence graduate from Anurag University (2022–2026).
@@ -20,6 +37,35 @@ I use SQL, Python, and Power BI to turn raw data into clear insights. I enjoy ex
 
 ---
 
+## 🧠 Core Technical Strengths
+
+### 📊 Data Analytics
+- **Exploratory Data Analysis (EDA)** — Inspecting datasets, finding patterns, and identifying data quality issues
+- **SQL & Python** — Querying, cleaning, transforming, and analyzing data
+- **Pandas & NumPy** — Preparing and exploring datasets
+- **Power BI & Dashboards** — Presenting trends and findings through clear visual reports
+- **Excel** — Data cleaning and quick analysis
+
+### ⚙️ Data Engineering
+- **ETL** — Extracting, transforming, and loading data for analysis
+- **Data Cleaning & Transformation** — Preparing consistent, usable datasets
+- **Data Validation** — Checking data quality and consistency during preparation
+- **Databricks** — Working with notebooks, data workflows, and AI/BI dashboards
+
+### ☁️ Platforms
+- **Databricks** — Notebooks, analytics workflows, and AI/BI dashboards
+- **MLflow** — Tracking machine learning experiments and results
+
+### 🤖 AI / ML
+- **Churn Analysis** — Exploring customer churn and retention patterns
+- **Cohort Analysis** — Comparing retention across customer groups
+- **Machine Learning** — Applying ML concepts in data projects
+
+### 🛠️ Developer Tools
+- **Git & GitHub** — Version control, project documentation, and publishing work
+
+---
+
 ## 📊 Featured Projects
 
 **Olist E-Commerce Analytics**  
@@ -32,14 +78,50 @@ Analysis of subscriber churn and retention across customer cohorts.
 
 ---
 
-## 🛠️ Skills
+## 🎯 Skills and Expertise
 
-**Analysis:** SQL · Python · Pandas · NumPy · Excel  
-**Dashboards:** Power BI · Databricks AI/BI · Data storytelling  
-**Platforms:** Databricks · MLflow  
-**Development:** FastAPI · SQLAlchemy · JavaScript · Git · GitHub
+### 🐍 Programming
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Databricks SQL](https://img.shields.io/badge/Databricks_SQL-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+
+### 📊 Data Analytics
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+
+### ⚙️ Data Engineering
+![ETL](https://img.shields.io/badge/ETL-2E8B57?style=for-the-badge)
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-20A4F3?style=for-the-badge)
+![Data Transformation](https://img.shields.io/badge/Data_Transformation-7B61A8?style=for-the-badge)
+![Data Validation](https://img.shields.io/badge/Data_Validation-E6A700?style=for-the-badge)
+
+### ☁️ Platforms
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://www.databricks.com/)
+[![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)](https://mlflow.org/)
+
+### 🛠️ Developer Tools
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+
+### 🤖 AI / ML
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-8E44AD?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-7B61FF?style=for-the-badge)
+![Churn Analysis](https://img.shields.io/badge/Churn_Analysis-FF6B6B?style=for-the-badge)
+![Cohort Analysis](https://img.shields.io/badge/Cohort_Analysis-00A896?style=for-the-badge)
+
+### ✨ Modern AI Stack
+[![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/)
+[![Codex](https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/codex/)
+[![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://gemini.google.com/)
 
 ---
+
 
 ## 🎓 Education
 
