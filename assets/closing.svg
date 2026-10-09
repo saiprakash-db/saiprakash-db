@@ -1,48 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 420" role="img" aria-label="A data thought by Sai Prakash Lingala">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 420" role="img" aria-label="Data thought by Sai Prakash Lingala">
+  <defs>
+    <clipPath id="wave-clip">
+      <rect x="5" y="290" width="990" height="70"/>
+    </clipPath>
+  </defs>
+
   <rect width="1000" height="420" fill="#0d1117"/>
 
-  <text x="25" y="48" fill="#e6edf3"
+  <text x="5" y="48" fill="#e6edf3"
         font-family="Arial, sans-serif" font-size="24" font-weight="600">
-    A Data Thought
+    Data Thought
   </text>
-  <line x1="25" y1="68" x2="975" y2="68" stroke="#30363d"/>
+  <line x1="5" y1="68" x2="995" y2="68" stroke="#30363d"/>
 
-  <rect x="25" y="88" width="950" height="150" rx="8"
+  <rect x="5" y="88" width="990" height="150" rx="8"
         fill="#000000" stroke="#c9d1d9" stroke-width="1"/>
 
-  <text x="52" y="146" fill="#ff9800"
-        font-family="Arial, sans-serif" font-size="42" font-weight="700">“</text>
-  <text x="96" y="145" fill="#67e8f9"
-        font-family="Arial, sans-serif" font-size="25" font-style="italic">
+  <text x="32" y="147" fill="#ff9800"
+        font-family="Arial, sans-serif" font-size="46" font-weight="700">“</text>
+  <text x="80" y="147" fill="#67e8f9"
+        font-family="Arial, sans-serif" font-size="30" font-style="italic">
     Data becomes valuable when analysis turns it
   </text>
-  <text x="96" y="184" fill="#67e8f9"
-        font-family="Arial, sans-serif" font-size="25" font-style="italic">
+  <text x="80" y="190" fill="#67e8f9"
+        font-family="Arial, sans-serif" font-size="30" font-style="italic">
     into a decision someone can act on.
   </text>
-  <text x="948" y="221" text-anchor="end" fill="#ff9800"
+  <text x="970" y="221" text-anchor="end" fill="#ff9800"
         font-family="Arial, sans-serif" font-size="17">
     — Sai Prakash Lingala
   </text>
 
-  <line x1="25" y1="268" x2="975" y2="268" stroke="#30363d"/>
+  <line x1="5" y1="268" x2="995" y2="268" stroke="#30363d"/>
 
-  <path fill="#050608"
-        d="M25 310 Q255 330 485 310 T945 310 T975 310 V360 H25 Z">
-    <animate attributeName="d" dur="7s" repeatCount="indefinite"
-      values="
-        M25 310 Q255 330 485 310 T945 310 T975 310 V360 H25 Z;
-        M25 310 Q255 290 485 310 T945 330 T975 310 V360 H25 Z;
-        M25 310 Q255 330 485 310 T945 310 T975 310 V360 H25 Z"/>
-  </path>
-  <path fill="#000000"
-        d="M25 328 Q255 312 485 328 T945 326 T975 328 V360 H25 Z">
-    <animate attributeName="d" dur="9s" repeatCount="indefinite"
-      values="
-        M25 328 Q255 312 485 328 T945 326 T975 328 V360 H25 Z;
-        M25 328 Q255 344 485 328 T945 312 T975 328 V360 H25 Z;
-        M25 328 Q255 312 485 328 T945 326 T975 328 V360 H25 Z"/>
-  </path>
+  <g clip-path="url(#wave-clip)">
+    <path fill="#050608"
+          d="M5 310 Q250 330 500 310 T995 310 V360 H5 Z">
+      <animate attributeName="d" dur="7s" repeatCount="indefinite"
+        values="
+          M5 310 Q250 330 500 310 T995 310 V360 H5 Z;
+          M5 310 Q250 290 500 310 T995 330 V360 H5 Z;
+          M5 310 Q250 330 500 310 T995 310 V360 H5 Z"/>
+    </path>
+    <path fill="#000000"
+          d="M5 328 Q250 312 500 328 T995 328 V360 H5 Z">
+      <animate attributeName="d" dur="9s" repeatCount="indefinite"
+        values="
+          M5 328 Q250 312 500 328 T995 328 V360 H5 Z;
+          M5 328 Q250 344 500 328 T995 312 V360 H5 Z;
+          M5 328 Q250 312 500 328 T995 328 V360 H5 Z"/>
+    </path>
+  </g>
 
   <text x="500" y="395" text-anchor="middle" fill="#c9d1d9"
         font-family="Arial, sans-serif" font-size="14">
