@@ -167,6 +167,3 @@ English · Telugu · Hindi
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saiprakash-db&bg_color=102216&color=11d452&line=11d452&point=11d452&area=true&hide_border=true" alt="Activity Graph" />
 </p>
-
----
-Built with [GPRM](https://gprm.bhalli.dev)
