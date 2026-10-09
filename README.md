@@ -64,13 +64,13 @@ I use SQL, Python, and Power BI to turn raw data into clear insights. I enjoy ex
 
 ## 📊 Featured Projects
 
-**Olist E-Commerce Analytics**  
-Analysis of sales, customers, and delivery performance in Brazilian e-commerce data.  
-*Tools: SQL · Databricks AI/BI* · [View project](https://github.com/YOUR_USERNAME/OLIST_REPO_NAME)
+**🛒 Olist E-Commerce Data Analysis**  
+Analyzed sales, customer, and delivery performance in Brazilian e-commerce data.  
+*SQL · Databricks AI/BI* · [View project](https://github.com/saiprakash-db/olist-ecommerce-data-analysis)
 
-**KKBOX Churn and Cohort Retention**  
-Analysis of subscriber churn and retention across customer cohorts.  
-*Tools: Python · Databricks · MLflow · Power BI* · [View project](https://github.com/YOUR_USERNAME/KKBOX_REPO_NAME)
+**🎵 Subscription Churn Prediction**  
+Explored subscriber churn and cohort retention using a Databricks workflow.  
+*Python · Databricks · MLflow · Power BI* · [View project](https://github.com/saiprakash-db/subscription-churn-prediction-databricks)
 
 ---
 
