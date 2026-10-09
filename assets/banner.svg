@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ddd6fe"/>
+      <stop offset="50%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" x2="1">
+      <stop offset="0%" stop-color="#312e81"/>
+      <stop offset="100%" stop-color="#6d28d9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="240" rx="18" fill="url(#bg)"/>
+  <circle cx="170" cy="62" r="3" fill="#fff" opacity=".8"/>
+  <circle cx="220" cy="42" r="2" fill="#fff" opacity=".7"/>
+  <circle cx="1010" cy="50" r="3" fill="#fff" opacity=".75"/>
+  <circle cx="1080" cy="78" r="2" fill="#fff" opacity=".8"/>
+  <text x="600" y="103" text-anchor="middle" fill="#111"
+        font-family="Arial,sans-serif" font-size="48" font-weight="700">
+    Sai Prakash Lingala
+  </text>
+  <text x="600" y="145" text-anchor="middle" fill="#21143b"
+        font-family="Arial,sans-serif" font-size="20" font-weight="600"
+        letter-spacing="2">
+    ASPIRING DATA ANALYST
+  </text>
+  <path fill="#4338ca" opacity=".45"
+        d="M0 184 Q200 210 400 184 T800 184 T1200 184 V240 H0 Z">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite"
+      values="M0 184 Q200 210 400 184 T800 184 T1200 184 V240 H0 Z;
+              M0 184 Q200 160 400 184 T800 205 T1200 184 V240 H0 Z;
+              M0 184 Q200 210 400 184 T800 184 T1200 184 V240 H0 Z"/>
+  </path>
+  <path fill="url(#wave)"
+        d="M0 207 Q200 184 400 207 T800 207 T1200 207 V240 H0 Z">
+    <animate attributeName="d" dur="5s" repeatCount="indefinite"
+      values="M0 207 Q200 184 400 207 T800 207 T1200 207 V240 H0 Z;
+              M0 207 Q200 224 400 207 T800 190 T1200 207 V240 H0 Z;
+              M0 207 Q200 184 400 207 T800 207 T1200 207 V240 H0 Z"/>
+  </path>
+</svg>
