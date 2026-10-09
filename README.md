@@ -1,85 +1,18 @@
-# Hi, I'm Sai Prakash 👋
+# 💫 About Me:
+# Hi, I'm Sai Prakash 👋<br><br>**Aspiring Data Analyst** · B.Tech in Artificial Intelligence · Hyderabad, India<br><br>---<br><br>## 💫 Who I Am<br><br>I'm **Sai Prakash**, a **B.Tech Artificial Intelligence graduate from Anurag University** and an aspiring **Data Analyst**.<br><br>I turn raw data into clear, actionable insights using **SQL, Python and Power BI**. I like taking a messy dataset, asking the right questions, and ending with an analysis or dashboard that someone can act on.<br><br>> From raw data → to clear insights. From insights → to better decisions.<br><br>I'm open to **full-time Data Analyst roles in Hyderabad** and **freelance projects**.<br><br>---<br><br>## 🚀 What's New<br><br>### 🔭 Currently working on<br>Data analysis projects, and building out my portfolio and GitHub profile.<br><br>### 🌱 Currently learning<br>**Advanced SQL**, **data storytelling and dashboards**, and **Artificial Intelligence**.<br><br>### 👯 Looking to collaborate on<br>Data analysis projects, Kaggle / open datasets, and dashboards and reports.<br><br>### 🤝 Looking for help with<br>Interview preparation, advanced SQL, and portfolio feedback.<br><br>### 💬 Ask me about<br>SQL and data analysis · Power BI dashboards · Python for data · Churn and retention analysis<br><br>### ⚡ Fun fact<br>I love cricket, a sport where every match is a dataset.<br><br>---<br><br>## 🛠️ Skills<br><br>| Area | Tools |<br>|------|-------|<br>| **Querying** | SQL |<br>| **Analysis** | Python, Pandas, NumPy, Excel |<br>| **Visualization** | Power BI |<br>| **Platform and ML tracking** | Databricks, MLflow |<br><br>---<br><br>## 📊 Featured Projects<br><br>### 🛒 Olist E-Commerce Data Analytics<br>Analysis of Brazilian e-commerce data to understand sales, customers and delivery performance.<br><br>- **Tools:** SQL, Databricks AI/BI<br>- **Key insight:** _add one finding with a number here_<br>- 🔗 [View project](https://github.com/YOUR_USERNAME/OLIST_REPO_NAME)<br><br>### 🎵 KKBOX Churn and Cohort Retention Analysis<br>A study of subscriber churn and how retention changes across customer cohorts.<br><br>- **Tools:** Python, Databricks, MLflow, Power BI<br>- **Key insight:** _add one finding with a number here_<br>- 🔗 [View project](https://github.com/YOUR_USERNAME/KKBOX_REPO_NAME)<br><br>---<br><br>## 📈 GitHub Stats<br><br>I'm actively building and committing data analysis projects in **SQL and Python**.<br><br><p><br>  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&bg_color=18181b&title_color=7de3a4&icon_color=7de3a4&text_color=c9c9d1&border_color=7de3a4" alt="GitHub stats"/><br>  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&bg_color=18181b&title_color=7de3a4&text_color=c9c9d1&border_color=7de3a4" alt="Top languages"/><br></p><br><br>---<br><br>## 📫 Let's Connect<br><br>- 💼 **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/YOUR_LINKEDIN/)<br>- 📧 **Email:** [YOUR_EMAIL@example.com](mailto:YOUR_EMAIL@example.com)<br>- 🐙 **GitHub:** [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
 
-**Aspiring Data Analyst** · B.Tech in Artificial Intelligence · Hyderabad, India
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saiprakash_15b) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/sai-prakash-lingala-400854287) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saiprakash15b@gmail.com) 
 
-## 💫 Who I Am
-
-I'm **Sai Prakash**, a **B.Tech Artificial Intelligence graduate from Anurag University** and an aspiring **Data Analyst**.
-
-I turn raw data into clear, actionable insights using **SQL, Python and Power BI**. I like taking a messy dataset, asking the right questions, and ending with an analysis or dashboard that someone can act on.
-
-> From raw data → to clear insights. From insights → to better decisions.
-
-I'm open to **full-time Data Analyst roles in Hyderabad** and **freelance projects**.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=saiprakash-db&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=saiprakash-db&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=saiprakash-db&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=saiprakash-db&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 What's New
-
-### 🔭 Currently working on
-Data analysis projects, and building out my portfolio and GitHub profile.
-
-### 🌱 Currently learning
-**Advanced SQL**, **data storytelling and dashboards**, and **Artificial Intelligence**.
-
-### 👯 Looking to collaborate on
-Data analysis projects, Kaggle / open datasets, and dashboards and reports.
-
-### 🤝 Looking for help with
-Interview preparation, advanced SQL, and portfolio feedback.
-
-### 💬 Ask me about
-SQL and data analysis · Power BI dashboards · Python for data · Churn and retention analysis
-
-### ⚡ Fun fact
-I love cricket, a sport where every match is a dataset.
-
----
-
-## 🛠️ Skills
-
-| Area | Tools |
-|------|-------|
-| **Querying** | SQL |
-| **Analysis** | Python, Pandas, NumPy, Excel |
-| **Visualization** | Power BI |
-| **Platform and ML tracking** | Databricks, MLflow |
-
----
-
-## 📊 Featured Projects
-
-### 🛒 Olist E-Commerce Data Analytics
-Analysis of Brazilian e-commerce data to understand sales, customers and delivery performance.
-
-- **Tools:** SQL, Databricks AI/BI
-- **Key insight:** _add one finding with a number here_
-- 🔗 [View project](https://github.com/YOUR_USERNAME/OLIST_REPO_NAME)
-
-### 🎵 KKBOX Churn and Cohort Retention Analysis
-A study of subscriber churn and how retention changes across customer cohorts.
-
-- **Tools:** Python, Databricks, MLflow, Power BI
-- **Key insight:** _add one finding with a number here_
-- 🔗 [View project](https://github.com/YOUR_USERNAME/KKBOX_REPO_NAME)
-
----
-
-## 📈 GitHub Stats
-
-I'm actively building and committing data analysis projects in **SQL and Python**.
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&bg_color=18181b&title_color=7de3a4&icon_color=7de3a4&text_color=c9c9d1&border_color=7de3a4" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&bg_color=18181b&title_color=7de3a4&text_color=c9c9d1&border_color=7de3a4" alt="Top languages"/>
-</p>
-
----
-
-## 📫 Let's Connect
-
-- 💼 **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-- 📧 **Email:** [YOUR_EMAIL@example.com](mailto:YOUR_EMAIL@example.com)
-- 🐙 **GitHub:** [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
