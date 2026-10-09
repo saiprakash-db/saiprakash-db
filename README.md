@@ -1,9 +1,5 @@
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=wave&color=0:15172B,50:38349B,100:087F88&height=180&section=header&text=Sai%20Prakash%20Lingala&fontSize=38&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn"
-    alt="Sai Prakash Lingala banner"
-    width="100%"
-  />
+  <img src="./assets/banner.svg" alt="Sai Prakash Lingala" width="100%" />
 </p>
 
 <p align="center">
@@ -123,11 +119,17 @@ Analysis of subscriber churn and retention across customer cohorts.
 ---
 
 
-## 🎓 Education
+## 🎓 Education & Certifications
 
-- B.Tech in Artificial Intelligence, Anurag University (2022–2026)
+- **B.Tech, Artificial Intelligence** — Anurag University · 2022–2026
+- **Deloitte Data Analytics Job Simulation** — Forage
+- **SQL and Relational Databases 101** — IBM Skills Network
 
-- **Languages:** English · Telugu · Hindi
+---
+
+## 🌐 Languages
+
+English · Telugu · Hindi
 
 ---
 
