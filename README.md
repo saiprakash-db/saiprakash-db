@@ -1,29 +1,3 @@
-<h1 align="center">Hi 👋, I'm Sai Prakash Lingala</h1>
-<h3 align="center">Aspiring Data Analyst</h3>
-
-<p align="center">
-[<img src="https://img.shields.io/badge/GitHub-102216?style=for-the-badge&logo=github&logoColor=11d452"/>](https://github.com/saiprakash-db)
-[<img src="https://img.shields.io/badge/LinkedIn-102216?style=for-the-badge&logo=linkedin&logoColor=11d452"/>](https://linkedin.com/in/linkedin.com/in/sai-prakash-lingala-400854287)
-[<img src="https://img.shields.io/badge/Email-102216?style=for-the-badge&logo=gmail&logoColor=11d452"/>](mailto:saiprakash-db)
-[<img src="https://img.shields.io/badge/Instagram-102216?style=for-the-badge&logo=instagram&logoColor=11d452"/>](https://instagram.com/saiprakash15b)
-</p>
-
-<hr/>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=saiprakash-db&color=11d452&style=for-the-badge" alt="Visitor Badge" />
-</p>
-
-# Sai Prakash
-
-**Aspiring Data Analyst** · B.Tech in Artificial Intelligence · Hyderabad, India
-
-[LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN/) ·
-[Email](mailto:YOUR_EMAIL@example.com) ·
-[GitHub](https://github.com/YOUR_USERNAME)
-
----
-
 ## 👋 Who I Am
 
 I'm Sai Prakash, an aspiring Data Analyst and B.Tech Artificial Intelligence graduate from Anurag University (2022–2026).
