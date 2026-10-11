@@ -43,7 +43,9 @@ I use **SQL and Python** to prepare, transform, and analyze data. I'm developing
 - **Excel** — Data cleaning and quick analysis
 
 ### ⚙️ Data Engineering
-- **ETL** — Extracting, transforming, and loading data for analysis
+- **ETL & ELT** — Moving data from source systems and preparing it for analysis; ETL transforms before loading, while ELT loads first and transforms in the target platform
+- **Data Warehousing** — Organizing and storing data for reliable querying, reporting, and analytics
+- **Workflow Automation** — Scheduling and coordinating repeatable data preparation and pipeline steps
 - **Data Cleaning & Transformation** — Preparing consistent, usable datasets
 - **Data Validation** — Checking data quality and consistency during preparation
 - **Databricks** — Working with notebooks, data workflows, and AI/BI dashboards
@@ -93,6 +95,9 @@ Explored subscriber churn and cohort retention using a Databricks workflow.
 
 ### ⚙️ Data Engineering
 ![ETL](https://img.shields.io/badge/ETL-2E8B57?style=for-the-badge)
+![ELT](https://img.shields.io/badge/ELT-3A9D72?style=for-the-badge)
+![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-365A8C?style=for-the-badge)
+![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-7556A8?style=for-the-badge)
 ![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-20A4F3?style=for-the-badge)
 ![Data Transformation](https://img.shields.io/badge/Data_Transformation-7B61A8?style=for-the-badge)
 ![Data Validation](https://img.shields.io/badge/Data_Validation-E6A700?style=for-the-badge)
