@@ -13,13 +13,13 @@
 
 ## 👋 Who I Am
 
-I'm Sai Prakash, an aspiring Data Analyst and B.Tech Artificial Intelligence graduate from Anurag University (2022–2026).
+I'm Sai Prakash, a B.Tech Artificial Intelligence graduate from Anurag University (2022–2026), building skills across **data engineering and data analytics**.
 
-I use SQL, Python, and Power BI to turn raw data into clear insights. I enjoy exploring datasets, asking useful questions, and sharing results through analysis and dashboards.
+I use **SQL and Python** to prepare, transform, and analyze data. I'm developing my data engineering skills through **ETL, data validation, and Databricks workflows**, and use **Power BI** to share clear, actionable insights.
 
-> From raw data to clear insights. From insights to better decisions.
+> From reliable data preparation to clear insights and better decisions.
 
-**Open to:** Entry-level Data Analyst roles in Hyderabad and freelance projects.
+**Open to:** Entry-level **Data Engineer** and **Data Analyst** roles in Hyderabad, as well as freelance projects.
 
 ---
 
